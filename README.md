@@ -1,0 +1,5 @@
+![show List](https://github.com/Wolferlk/TheNotesApp/assets/127308777/f557da58-ed33-4b70-a1ed-af7b7c666a34)
+![Landing](https://github.com/Wolferlk/TheNotesApp/assets/127308777/ea753bf9-74cb-4a43-bb46-f6abfd9b738c)
+![edittext](https://github.com/Wolferlk/TheNotesApp/assets/127308777/4be07c4c-1db6-48a2-adce-088e6e628a46)
+![delete](https://github.com/Wolferlk/TheNotesApp/assets/127308777/61c693e3-53b5-47db-a29c-cfb4824c8286)
+![add text](https://github.com/Wolferlk/TheNotesApp/assets/127308777/82e81821-433c-4816-8495-0af57b7f0cf8)
